@@ -26,7 +26,9 @@
 
 ## Config
 <details>
-  <summary> Click To Open </summary>
+  <summary>Config</summary>
+
+```yaml
 ---
 economy:
   provider: economyapi
@@ -34,11 +36,11 @@ economy:
 
 kits:
   - name: "Kit Member"
-    info: "Kit For New Member" 
+    info: "Kit For New Member"
     permission: "memberkit.perm"
     money: 1000
     coin: 10
     items: []
     used-by: ""
 ...
-</details>
+</details> ```
