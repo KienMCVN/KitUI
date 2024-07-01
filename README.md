@@ -15,3 +15,11 @@
   <li>/createkit 'name' To Create A New Kit</li>
   <li>/managekit 'kit' To Open Menu Manage Kit</li>
 </ul>
+
+<h4>Permissions</h4>
+<ul>
+  <li>kit.menu To Use /kits Or /kit</li>
+  <li>kit.give To Use /givekit</li>
+  <li>kit.create To Use /createkit</li>
+  <li>kit.manage To Use /managekit</li>
+</ul>
