@@ -9,7 +9,7 @@
 <h3>Commands</h3>
 <ul>
   <li>/kits Or /kit To Open Menu Receive Kit</li>
-  <li>/givekit <kit> <player> To Give Kit For Some One</li>
-  <li>/createkit <name> To Create A New Kit</li>
-  <li>/managekit <kit> To Open Menu Manage Kit</li>
+  <li>/givekit '<kit> <player>' To Give Kit For Some One</li>
+  <li>/createkit '<name>' To Create A New Kit</li>
+  <li>/managekit '<kit>' To Open Menu Manage Kit</li>
 </ul>
