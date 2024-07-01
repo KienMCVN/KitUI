@@ -8,6 +8,11 @@
   <li>Admin Just Can Add And Remove Item In Game Because Item Will Be Encoded In Config</li>
 </ul>
 
+## Credits / Virions Used
+- [InvMenu](https://github.com/Muqsit/InvMenu) (Muqsit)
+- [DEVirion](https://github.com/poggit/devirion) (SOF3)
+- [libPiggyEconomy](https://github.com/ClickedTran/libPiggyEconomy) (DaPigGuy)
+
 ## Commands
 <ul>
   <li>/kits Or /kit To Open Menu Receive Kit</li>
