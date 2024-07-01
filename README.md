@@ -2,9 +2,11 @@
 <p>Plugin KitUI For Pocketmine-MP 5.0.0</p>
 
 <h2>Info Plugin</h2>
-<p>This Plugin Allow Player To Receive Kit</p>
-<p>Admin Can Create More Kit With Command</p>
-<p>Admin Just Can Add And Remove Item In Game Because Item Will Be Encoded In Config</p>
+<ul>
+  <li>This Plugin Allow Player To Receive Kit</li>
+  <li>Admin Can Create More Kit With Command</li>
+  <li>Admin Just Can Add And Remove Item In Game Because Item Will Be Encoded In Config</li>
+</ul>
 
 <h3>Commands</h3>
 <ul>
