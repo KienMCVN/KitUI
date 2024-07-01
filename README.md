@@ -23,3 +23,24 @@
   <li>kit.create To Use /createkit</li>
   <li>kit.manage To Use /managekit</li>
 </ul>
+
+## Config
+<details>
+  <summary> Click To Open </summary>
+```yaml
+---
+economy:
+  provider: economyapi
+#Get Type Of The Economy
+
+kits:
+  - name: "Kit Member"
+    info: "Kit For New Member"
+    permission: "memberkit.perm"
+    money: 1000
+    coin: 10
+    items: []
+    used-by: ""
+...
+```
+</details>
