@@ -25,8 +25,6 @@ use pocketmine\item\{Item, ItemBlock, StringToItemParser, LegacyStringToItemPars
 use KienDev\Kit\FormAPI\{Form, FormAPI, SimpleForm, CustomForm, ModalForm};
 use KienDev\Kit\Commands\{KitCMD, GiveKitCMD, CreateKitCMD, ManageKitCMD};
 use DaPigGuy\libPiggyEconomy\libPiggyEconomy;
-use DaPigGuy\PiggyCustomEnchants\CustomEnchantManager;
-use DaPigGuy\PiggyCustomEnchants\enchants\CustomEnchant;
 
 class Main extends PluginBase implements Listener{
 	
