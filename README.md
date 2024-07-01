@@ -26,7 +26,7 @@
 
 ## Config
 <details>
-  <summary>Config</summary>
+  <summary>Click To See</summary>
 
 ```yaml
 ---
